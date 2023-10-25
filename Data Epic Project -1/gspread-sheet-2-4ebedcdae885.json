@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gspread-sheet-2",
+  "private_key_id": "4ebedcdae885cffaaf048bd036b74c5ce313da3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpRnzv6kxb62Bj\nFq6a5HOydIvjJEPQThQiu2Rp4tEroExNYekdYX2+xczsYYTwVXf8F5U1f7/KDqI3\nHkoSMZkw02XwMXZ6mKGkFnHeonffucPqcNU18wWEOlkc//zxHZb9C8uEJX1IJhVd\nbMc2uo0jkPp/zzOMuW85HX48Vlu8Oby2KggWVXsnO/8fOQPNg9Zw4UyQXYb5FP2X\nFGA/MXSTl4ariLASzOIc3RtR77oLGMHBVfSk0QY68ulkkOCyZrwA3/xcMsYoAf7v\nDlA9PVHk0QkEN0rqZzg72tqT893HLVsdmTf75eSQwmuzOBIr//OcymdlSXXV01aI\nnEtmJTtRAgMBAAECggEACYhc3PMvLoo/YucmKTaCMjecYNvUBpMeEMxoKcseW9BG\nucEgvFEHIH8hxKJThugORivjEQinIaMwNQ3LbrG8unZeNlAHx7zIlg22RwsT2H1c\n9Er7Q9LyMaWKSw76tO6lWA3h7bjBgNaVs42enKU18W2+wKO318YB1qfjufTETOHF\nNcGFqpbrQFCR7IKt6qdnzQfXcM121S3kjyofrDvsBKg7cbPeITc+drqAck8jHneF\n3xEF7bUUI5HJ4UxDzoMGp5eIyKlvZRC1ahyPb4j/FMRZwTb8ZG198Ek6S/alajBy\nc+rH1oO3Uv+w1SICcTYRY09cnMxKobJf9Rg04GIx4QKBgQDjpMDbAPJwL2B6/keU\n9x+ogjrAoNlvXTbgWWCVlqDtcGGBrKZAmnHy03ktU8uDYXdkk/jyVsNL1HWPNtcT\njgJSLTkIJgfiOhxeETz1Eg9XQW7aDypwGmb2geOz1MOYNbG9CwlyNxdqRUGixIY+\nD/2aQNKX0OFcfYu3bClIiuCQ8QKBgQC+XHNfppFpGsku5qqBQIn1tWpjeBzkJxUZ\nS9tvhjotsjaLtGETMFjXYlQ6cdoNIexbgH6Tu1KfEKlObsvZr70CfP2enbicD0nY\n8TTrkrWxt/e2fmvluLuv2jvrd3CmV5hraoDFs1uZz2kFrDCoyhgdHdpPhM5zO4CE\n/BsPVfNQYQKBgEBzdfLLith+YWeRNL0VVo5ECNRe9hDUqGPOikzv77Ip/kFTm2Jx\nF8/zVbyim90frEj6qCIctIB0r7ATi8NKkpennB0Vf2fqoft0D/km2tcOfI8aeh5x\nKzOhxNE2bQZcNW1bgZonxOZeo12tHIDX0CprLfSzvAqOtQ8CfZG/WCNRAoGASb1w\nZ+4TR/67TjLGe9kvWAIVm0CNGIhXMPxknZgGc2sknAucyx0gXRbW/+jYidvJPkzR\nO5MF115R53Md/k6ITi1y5X29ZJ67gZE2acbkIVrdV1EzpMJh2iYUrgsPlTA7d+jC\nx1LKOhPRYAQquUfH/Ydx6PnOK28yQtGR/efSoCECgYEAvm9GwlrvgkRbf2CrMnXN\nJhmHfq4En7P5JK/+gVPKeCxQnAW4xkAuxbLMxLxXHdxWShq2NbjiK+q07wPmbTz3\nmXlGhjKE/a+NAE7DqKMZNiNDpVIRNgmZKn/EDPsBP5b/F26niAUgJcICJeIXOTSv\navaNyrVvD0fZLUdRk0BB6T0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yahaya-onagie@gspread-sheet-2.iam.gserviceaccount.com",
+  "client_id": "102985114345756301949",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yahaya-onagie%40gspread-sheet-2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
